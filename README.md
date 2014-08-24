@@ -1,11 +1,11 @@
-Flood Chat 
-Version 1.0.0
+# Kampoeng Flood Chat 
+> Version 1.0.0
 
 
-Anda Membutuhkan :
-1. NET Frame Work 4
-2. Kesabaran
-3. Keikhlasan
+### Anda Membutuhkan
+* NET Frame Work 4
+* Kesabaran
+* Keikhlasan
 
 Enjoy !
 
@@ -13,4 +13,5 @@ Enjoy !
  =================
 |Credit By Ridane|
  =================
-WWW.Kampoeng.co.id
+ 
+www.Kampoeng.co.id
